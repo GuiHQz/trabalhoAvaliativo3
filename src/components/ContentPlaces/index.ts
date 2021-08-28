@@ -1,0 +1,1 @@
+export { ContentPlaces } from './ContentPlaces'

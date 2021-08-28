@@ -1,0 +1,1 @@
+export { InputHome } from './InputHome'
